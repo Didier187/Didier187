@@ -12,7 +12,10 @@ My name is Didier , Front-end developer based in Sydney, Australia
 - 📫 How to reach me: <kdondidier@gmail.com>
 - let's get social ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKAMANUTSID)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didier187)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didier187&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didier187&show_icons=true&theme=radical)
 
 ## Tech stack
 :point_down:
