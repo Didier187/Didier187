@@ -6,8 +6,8 @@
 
 My name is Didier , Front-end developer based in Sydney, Australia
 - 🔭 I’m currently working on freelance projects
-- 🌱 I’m currently learning Nodejs
-- 👯 I’m looking to collaborate on any project that requires a UI
+- 🌱 Javascript works
+- 👯 I’m looking to collaborate on any project that requires a UI or Backend
 - 💬 Ask me about ReactJs, Javascript,HTML and CSS
 - 📫 How to reach me: <kdondidier@gmail.com>
 - let's get social ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKAMANUTSID)
