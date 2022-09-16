@@ -5,10 +5,9 @@
 
 
 My name is Didier , Front-end developer based in Sydney, Australia
-- 🔭 I’m currently working on freelance projects
-- 🌱 Javascript works
-- 👯 I’m looking to collaborate on any project that requires a UI or Backend
-- 💬 Ask me about ReactJs, Javascript,HTML and CSS
+- 🔭 I’m currently exploring composable software
+- 🌱 Javascript / Typecsript works
+- 💬 Ask me about React, Javascript /Typescript and Node
 - 📫 How to reach me: <kdondidier@gmail.com>
 - let's get social ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKAMANUTSID)
 
@@ -22,17 +21,11 @@ My name is Didier , Front-end developer based in Sydney, Australia
 Technology I enjoy using but not limited to 
 
 ![image](https://img.shields.io/badge/javascript-yellow)
+![image](https://img.shields.io/badge/typescript-blue)
 ![image](https://img.shields.io/badge/-reactjs-yellowgreen)
-![image](https://img.shields.io/badge/-html5-green)
-![image](https://img.shields.io/badge/-css3-green)
-![image](https://img.shields.io/badge/-bootstrap-green)
-![image](https://img.shields.io/badge/-SASS-green)
-
+![image](https://img.shields.io/badge/-reactnative-yellowgreen)
+![image](https://img.shields.io/badge/nodejs-green)
 ![image](https://img.shields.io/badge/-StyledComponents-green)
-![image](https://img.shields.io/badge/-grid-green)
-![image](https://img.shields.io/badge/-flexbox-green)
-![image](https://img.shields.io/badge/-UI-green)
-![image](https://img.shields.io/badge/-API-green)
-![image](https://img.shields.io/badge/-css+variable-green)
+
 
 Get in touch <kdondidier@gmail.com>
