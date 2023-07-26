@@ -4,17 +4,15 @@
 
 
 
-My name is Didier , Front-end developer based in Sydney, Australia
+My name is Didier, Front-end developer based in Sydney, Australia
 - 🔭 I’m currently exploring composable software
-- 🌱 Javascript / Typecsript works
-- 💬 Ask me about React, Javascript /Typescript and Node
+- 🌱 Javascript / Typescript
+- 💬 Ask me about Angular, React, Javascript /Typescript and Node
 - 📫 How to reach me: <kdondidier@gmail.com>
-- let's get social ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKAMANUTSID)
+- let's get social![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKAMANUTSID)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didier187&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didier187&show_icons=true&theme=radical)
 
 ## Tech stack
 :point_down:
